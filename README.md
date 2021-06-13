@@ -1,5 +1,5 @@
 # Whitepaper
-Governance Adaxa Token
+![alt tag](https://github.com/adaxa-core/Whitepaper-Adaxa-Token/blob/main/src/Adaxa_Nombre_Black.png)
 ## Adaxa Token Ecosystem
 **Cryptoasset for decentralized cooperative finance**
 
@@ -35,6 +35,18 @@ The Adaxa Token has a Max Supply of 100 million of Token **(No more Token will b
 
 It will be distributed in a decentralized manner by other smart contracts which have the amounts shown below. 
 
+| Distribution	 | 100%	 |
+| ------------- | ------------- |
+| Initial Governance | 10% |
+| Open Development | 5% |
+| Faucet  | 1% |
+| Dex platform  | 40% |
+| Farming 	  | 25% |
+| Investors	  | 5% |
+| Decentralized Acquisition | 14% |
+
+Distributing the initial tokens for governance as follows:
+
 - **Initial Governance** 
 
 | Initial Governance	 | 10%	 |
@@ -42,36 +54,6 @@ It will be distributed in a decentralized manner by other smart contracts which 
 | Initial Juries | 5% |
 | Initial Members  | 3% |
 | Initial Users  | 2% |
-
-- **Open Development** 
-
-| Initial Governance	 | 5%	 |
-| ------------- | ------------- |
-
-- **Faucet** 
-
-| Faucet	 | 1%	 |
-| ------------- | ------------- |
-
-- **Dex platform** 
-
-| Dex platform	 | 40%	 |
-| ------------- | ------------- |
-
-- **Farming** 
-
-| Farming	 | 25%	 |
-| ------------- | ------------- |
-
-- **Investors** 
-
-| Farming	 | 5%	 |
-| ------------- | ------------- |
-
-- **Decentralized Acquisition** 
-
-| Decentralized Acquisition	 | 14%	 |
-| ------------- | ------------- |
 
 **STRATEGIC PLAN**
 
@@ -112,6 +94,7 @@ The codes related to the web platform and other solutions of the Adaxa Token eco
 
 It will focus on making decisions regarding the traceable course of the Adaxa Token and other laws that condition the Token, taking into account the initial specifications set out in this technical document.
 
+![alt tag](https://github.com/adaxa-core/Whitepaper-Adaxa-Token/blob/main/src/Adaxa_Nombre_Blue.png)
 ```**Adaxa Token**
 Adaxa Token
 Red: xDaiChain
